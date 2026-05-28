@@ -1,7 +1,7 @@
 #Hola. Soy Axell
 .Mi aporte fue crear el Repositorio
 
-#Hola. Soy David
+#Hola. Soy David ( Axell )
 .Mi aporte fue crar la Rama/JZDA
 Crear un Html
 
